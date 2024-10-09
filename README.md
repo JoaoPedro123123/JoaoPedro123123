@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou [Seu Nome]
+# 👋 Olá! Eu sou João Pedro
 
 **Desenvolvedor em formação | Estudante de Ciência da Computação**
 
